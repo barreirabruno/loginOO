@@ -18,4 +18,4 @@ termoUso
 
 3 - Renomeie o arquivo Config-example para Config.php e salve-o.
 
-3 - A pasta precisa estar dentro do MAMP||XAMP>HTDOCS e o MAMP||XAMP precisa estar ligado para funcionar.
+4 - A pasta precisa estar dentro do MAMP||XAMP>HTDOCS e o MAMP||XAMP precisa estar ligado para funcionar.
