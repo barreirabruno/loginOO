@@ -1,0 +1,15 @@
+
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to right bottom, #0a978f, #0aa892, #25b992, #44c98d, #64d985) !important;
+}
+
+.container>h1 {
+    padding-top: 60px;
+}

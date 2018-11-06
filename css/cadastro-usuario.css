@@ -1,0 +1,22 @@
+.form-row {
+    margin: 16px 0;
+}
+.logotipo {
+    color: #fff;
+    background-color:#17a2b8;
+    min-height: 100px;
+}
+
+.logotipo>h1 {
+   padding: 20px 0 0 20px;  
+}
+
+.cadastro-usuario {
+    padding: 20px; 
+    margin-top: 20px;
+    background-color: #fff;
+}
+
+.termos {
+    margin: 8px 0 24px 0;
+}

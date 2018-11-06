@@ -1,0 +1,15 @@
+body {
+    background-color: #efefef;
+}
+
+.form-row {
+    margin: 16px 0;
+}
+.logotipo {
+    color: #fff;
+    background-color:#17a2b8;
+    min-height: 100px;
+}
+.logotipo>h1 {
+   padding: 20px 0 0 20px;  
+}
